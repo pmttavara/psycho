@@ -1,0 +1,6 @@
+.vs
+x64/Debug
+x64/Release
+*.VC.db
+demo.exe
+*.spall
